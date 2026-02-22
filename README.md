@@ -6,6 +6,9 @@
 # test
 # pass2
 # =GATE=
+# self with nothing
+# database
+#
 # iNX
 # NEXUS ISRAIN
 
